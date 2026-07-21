@@ -84,7 +84,3 @@ vvp sim.out
 - [ ] Byte/halfword load-store
 - [ ] Branch prediction (predict-not-taken to start)
 - [ ] Exception/CSR support
-
-## License
-
-MIT (or update as preferred).
